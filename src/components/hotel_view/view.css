@@ -1,0 +1,165 @@
+.hotel_view_outer_container
+{
+    width: 100%;
+    height: auto;
+    margin:10px 0px;
+    padding:0px;
+    box-sizing: border-box;
+}
+
+.hotel_view_outer_wrapper
+{
+    width: 100%;
+    height: auto;
+    margin: 0px;
+    padding:0px;
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+}
+
+.hotel_view_header
+{
+    width: 100%;
+    height:40px;
+    border-bottom:solid 1px rgb(25, 23, 32);
+    background-color: #221D33;
+    box-sizing: border-box;
+}
+.hotel_view_back_icon
+{
+    width:45px;
+    height:30px;
+    margin:5px 20px
+}
+
+.hotel_view_front_image_container
+{
+    width: 100%;
+    height:max-content;
+}
+
+.hotel_view_front_image_container img
+{ 
+    width: 100%;
+}
+
+.hotel_view_hotel_title,.hotel_veiw_hotel_add,.hotel_veiw_hotel_rev,.hotel_view_amenities_title
+{
+    width: 100%;
+    padding-left:15px;
+    margin:4px 0px;
+    font-family: 'Roboto', sans-serif;
+    box-sizing: border-box;
+}
+
+.hotel_view_hotel_title
+{
+    font-size: 1.2em;
+    font-weight: 800;
+}
+
+.hotel_veiw_hotel_add
+{
+    font-size: 0.9em;
+    font-weight: 400;
+}
+
+.hotel_view_amenities_container
+{
+    width:100%;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    padding: 3px;
+    margin:10px 0px;
+    box-sizing: border-box;
+}
+
+.hotel_view_amenities_title
+{
+    font-size: 1.2em;
+    font-weight: 700;
+    margin-top:4px;
+}
+
+
+.hotel_view_amenities_wrapper
+{
+    width: 100%;
+    overflow:scroll;
+    display: flex;
+}
+
+
+.hotel_view_amenities_inner_wrapper
+{
+    width:max-content;
+    display: flex;
+    margin:5px 0px;
+}
+
+.hotel_view_amenities_container img 
+{
+    width: 44px;
+    height: 44px;
+    margin:5px 15px;
+}
+
+.h_v_local_guide
+{
+    width: 100%;
+    margin: 10px 0px;
+    padding: 5px;
+    box-sizing: border-box;
+}
+
+.h_v_local_guide_title
+{
+    width: 100%;
+    margin: 0px;
+    padding-left:10px;
+    font-size:1.2em;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+}
+
+.h_v_local_guide_box
+{
+    width: 100%;
+    display: flex;
+    height: max-content;
+    margin-top: 10px;
+}
+
+.h_v_local_guide img
+{
+    width: 44px;
+    height: 44px;
+    border-radius: 100%;
+    margin:5px;
+    overflow: hidden;
+    background-color: rgb(31, 160, 199);
+    padding: 5px;
+    box-sizing: border-box;
+}
+
+.h_v_local_guide p
+{
+    width: 100%;   
+    margin: 9px 0px;
+    margin-left: 10px;
+}
+
+.h_v_google_location_buttoon
+{
+    width: 200px;
+    height:40px;
+    box-sizing: border-box;
+    padding: 5px;
+    font-size: 1rem;
+    margin:auto;
+    margin-top: 20px;
+    background-color: rgb(1, 156, 218);
+    border: solid 1px  rgba(1, 157, 218, 0.815);
+}

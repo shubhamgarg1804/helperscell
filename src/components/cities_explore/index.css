@@ -1,0 +1,16 @@
+.explore_cities_container
+{
+    width: 100%;
+    margin:0px;
+    padding:20px;
+    box-sizing: border-box;
+    
+}
+.explore_cities_wrapper
+{
+    width: 100%;
+    margin:0px;
+    padding:0px;
+    display: flex;
+    flex-direction: column;
+}

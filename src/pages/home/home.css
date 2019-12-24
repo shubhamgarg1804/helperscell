@@ -1,0 +1,10 @@
+.home_outer_container
+{
+  width: 100%;
+  height:-webkit-max-content;
+  height:-moz-max-content;
+  height:max-content;
+  padding: 0px;
+  margin: 0px;
+  background-color: #ececec;
+}

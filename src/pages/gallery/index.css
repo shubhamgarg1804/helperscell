@@ -1,0 +1,31 @@
+.g_p_container
+{
+    width:100%;
+    margin:0px;
+    padding: 10px;
+    box-sizing: border-box;
+    display: block;
+}
+.g_p_wrapper
+{
+    width: 100%;
+    margin: 0px;
+    padding:5px;
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+}
+.g_p_heading
+{
+    width: 100%;
+    margin:16px 0px 30px 0px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.6em;
+    text-align: center;
+}
+.g_p_image
+{
+    width: 100%;
+    height:auto;
+    margin: 5px;
+}

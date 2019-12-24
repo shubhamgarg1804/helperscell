@@ -1,0 +1,23 @@
+.accor
+{
+    width:100%;
+    font-size: 1rem;
+    font-family: Arial, Helvetica, sans-serif;
+    padding:8px;
+    text-decoration: none;
+    color: black;
+    text-align: left;
+    padding-left: 30px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+.accor:hover
+{
+    background-color: gray;
+}
+.accor::after
+{
+    content: '\276F';
+    margin-left: 10px;
+}
