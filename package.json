@@ -24,7 +24,7 @@
     "@fortawesome/fontawesome": "^1.1.8",
     "@material-ui/core": "^4.3.3",
     "axios": "^0.18.0",
-    "froala-editor": "^3.0.5",
+    "froala-editor": "^4.0.7",
     "rea": "0.0.1",
     "react": "^16.5.2",
     "react-dom": "^16.5.2",
